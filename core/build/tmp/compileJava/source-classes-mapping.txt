@@ -1,0 +1,44 @@
+sk/fri/uniza/game/GameFinishedScreen.java
+ sk.fri.uniza.game.GameFinishedScreen
+sk/fri/uniza/managers/InputManager.java
+ sk.fri.uniza.managers.InputManager
+sk/fri/uniza/managers/TextManager.java
+ sk.fri.uniza.managers.TextManager
+sk/fri/uniza/aliens/AlienAttack.java
+ sk.fri.uniza.aliens.AlienAttack
+ sk.fri.uniza.aliens.AlienAttack$1
+ sk.fri.uniza.aliens.AlienAttack$Level
+sk/fri/uniza/aliens/IndestructibleAlien.java
+ sk.fri.uniza.aliens.IndestructibleAlien
+sk/fri/uniza/lasers/AlienLaser.java
+ sk.fri.uniza.lasers.AlienLaser
+sk/fri/uniza/Menu.java
+ sk.fri.uniza.Menu
+ sk.fri.uniza.Menu$1
+ sk.fri.uniza.Menu$2
+sk/fri/uniza/player/Spaceship.java
+ sk.fri.uniza.player.Spaceship
+sk/fri/uniza/aliens/OffensiveAlien.java
+ sk.fri.uniza.aliens.OffensiveAlien
+sk/fri/uniza/game/MainMenu.java
+ sk.fri.uniza.game.MainMenu
+sk/fri/uniza/aliens/Alien.java
+ sk.fri.uniza.aliens.Alien
+sk/fri/uniza/gameObjects/GameObject.java
+ sk.fri.uniza.gameObjects.GameObject
+sk/fri/uniza/game/MainGame.java
+ sk.fri.uniza.game.MainGame
+sk/fri/uniza/gameObjects/ILivingObject.java
+ sk.fri.uniza.gameObjects.ILivingObject
+sk/fri/uniza/managers/SoundManager.java
+ sk.fri.uniza.managers.SoundManager
+sk/fri/uniza/game/SpaceInvadersGame.java
+ sk.fri.uniza.game.SpaceInvadersGame
+sk/fri/uniza/managers/TextureManager.java
+ sk.fri.uniza.managers.TextureManager
+sk/fri/uniza/managers/GameManager.java
+ sk.fri.uniza.managers.GameManager
+sk/fri/uniza/gameObjects/Life.java
+ sk.fri.uniza.gameObjects.Life
+sk/fri/uniza/lasers/Laser.java
+ sk.fri.uniza.lasers.Laser
